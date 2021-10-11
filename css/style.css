@@ -33,11 +33,34 @@
     font-size: smaller;
 }
 
-#frase-evidenziata {
+.frase-evidenziata {
     background-color: yellow;
 }
 
 .margine-lista {
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+
+#dimensioni-tabella {
+    width: 100%;
+    border-spacing: 0px;
+    
+}
+
+.allineamento-colonne {
+    text-align: left;
+   
+    
+    
+}
+
+.colore-riga-testo {
+    background-color: slateblue;
+    color: white;
+}
+
+.colore-riga-alternativo {
+    background-color: turquoise;
 }
