@@ -1,3 +1,30 @@
-body {
-    background-color: blue;
+.bg-intestazione {
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+
+#dimensione-logo {
+    width: 20%;
+    height: 20%;
+}
+
+#stile-titolo {
+    font-size:40px;
+    margin-bottom: 0%;
+    margin-top: 10px;
+
+}
+
+#colore-autore{
+    color: cornflowerblue;
+}
+
+.stile-autore-data {
+    color: grey;
+    font-size: large;
+}
+
+.margine-img {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
