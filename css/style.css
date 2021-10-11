@@ -64,3 +64,31 @@
 .colore-riga-alternativo {
     background-color: turquoise;
 }
+
+.frase-suggerimento {
+
+font-size: medium;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: violet;
+
+}
+
+#img-grafico {
+    background-image: url(../img/graph.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+}
+
+.frase-pubblicità {
+    color: white;
+    
+}
+
+#img-computer {
+    background-image: url(../img/monitor.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    margin-top: 20px;
+}
